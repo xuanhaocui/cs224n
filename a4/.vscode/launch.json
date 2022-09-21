@@ -1,0 +1,26 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            // "args": ["-n", "2", "-l", "0.5", "0.5", 
+            // "-r", "the light shines in the darkness and the darkness has not overcome it", 
+            // "and the light shines in the darkness and the darkness did not comprehend it", 
+            // "-c", "and the light shines in the darkness and the darkness can not comprehend",
+            // "the light shines the darkness has not in the darkness and the trials"],
+            "args": ["-n", "2", "-l", "0.5", "0.5", 
+            "-r", "the light shines in the darkness and the darkness has not overcome it", 
+            // "and the light shines in the darkness and the darkness did not comprehend it", 
+            "-c", "and the light shines in the darkness and the darkness can not comprehend",
+            "the light shines the darkness has not in the darkness and the trials"],
+            "justMyCode": true
+        }
+    ]
+}
